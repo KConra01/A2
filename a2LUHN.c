@@ -1,9 +1,15 @@
 
 #include <stdio.h>
 
-int main(void) {
+void readCC();
+void isValid();
+void runLuhn();
+
+
+int main(void) 
+{
 	
 
 
-
+	return 0;
 }
